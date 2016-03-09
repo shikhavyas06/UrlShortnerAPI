@@ -1,0 +1,61 @@
+body {
+	font: .8em "Trebuchet MS", Verdana, Arial, Sans-Serif;
+	text-align: center;
+	color: #333;
+	background-color: #fff;
+	margin-top: 5em;
+}
+
+h1 {
+	font-size: 2em;
+	padding: 0;
+	margin: 0;
+}
+
+h4 {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+form {
+	width: 28em;
+	background-color: #eee;
+	border: 1px solid #ccc;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+}
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #09c;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #07a;
+}
+
+a:hover {
+	color: #c30;
+}
+
+.error, .success {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.error {
+	color: #ff0000;
+}
+
+.success {
+	color: #000;
+}
+		
